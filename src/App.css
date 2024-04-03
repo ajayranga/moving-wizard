@@ -20,6 +20,7 @@
   position: absolute;
   transform: rotateY(180deg);
   transform-origin: center;
+  transition: all 2s ease;
 }
 .flip {
   transform: rotateY(0);
